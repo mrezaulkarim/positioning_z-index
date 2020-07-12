@@ -1,0 +1,315 @@
+*{margin: 0; padding: 0;}
+.container {
+	width: 80%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+header {
+	margin: 50px auto;
+}
+.position {
+	margin: 0 auto;
+	width: 700px;
+	min-height: 400px;
+	border: 2px solid red;
+	position: relative;
+}
+.div {
+	width: 150px;
+	height:150px;
+}
+.div1 {
+	background: blue;
+	left: 0;
+	top:  0;
+	position: absolute;
+	border-bottom-right-radius: 100%;
+}
+.div2 {
+	background: green;
+	right: 0;
+	top: 0;
+	position: absolute;
+	border-bottom-left-radius: 100%;
+}
+.div3 {
+	background: yellow;
+	left: 0;
+	bottom: 0;
+	position: absolute;
+	border-top-right-radius: 100%;
+}
+.div4 {
+	background: black;
+	right: 0;
+	bottom: 0;
+	position: absolute;
+	border-top-left-radius: 100%;
+}
+.div5 {
+	background: red;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: 200px auto;
+    border-radius: 50%;
+}
+}
+
+
+
+
+
+#index {
+
+}
+h2 {
+	margin: 20px 0;
+	font-size: 30px;
+	text-align: center;
+}
+.z_index {
+	padding: 0 21%;
+}
+
+.box1{
+	width:150px;
+	height:150px;
+	background:red;
+	left:0;
+	top:0;
+	position:relative;
+	z-index:15;
+	opacity: .9;
+}
+.box2{
+	width: 150px;
+    height: 150px;
+    background: blue;
+    left: 120px;
+    top: -150px;
+    position: relative;
+    z-index: 14;
+    opacity: .9;
+}
+.box3{
+	width: 150px;
+	height: 150px;
+	background: green;
+	left: 240px;
+	top: -300px;
+	position: relative;
+	z-index: 13;
+	opacity: .9;
+}
+.box4{
+	width: 150px;
+	height: 150px;
+	background: yellow;
+	left: 360px;
+	top: -450px;
+	position: relative;
+	z-index: 12;
+	opacity: .9;
+}
+.box5 {
+	width: 150px;
+	height: 150px;
+	background: black;
+	left: 480px;
+	top: -600px;
+	position: relative;
+	z-index: 11;
+	opacity: .9;
+}
+.box6 {
+	width: 120px;
+	height: 150px;
+	background: red;
+	left: 510px;
+	top: -600px;
+	position: relative;
+	z-index: 15;
+	opacity: .9;
+}
+.box7 {
+	width: 120px;
+	height: 150px;
+	background: blue;
+	left: 470px;
+	top: -680px;
+	position: relative;
+	z-index: 14;
+	opacity: .9;
+}
+.box8 {
+	width: 120px;
+	height: 150px;
+	background: green;
+	left: 440px;
+	top: -760px;
+	position: relative;
+	z-index: 13;
+	opacity: .9;
+}
+.box9 {
+	width: 120px;
+	height: 150px;
+	background: yellow;
+	left: 400px;
+	top: -840px;
+	position: relative;
+	z-index: 12;
+	opacity: .9;
+}
+.box10 {
+	width: 120px;
+	height: 150px;
+	background: black;
+	left: 360px;
+	top: -920px;
+	position: relative;
+	z-index: 11;
+	opacity: .9;
+}
+.box11 {
+	width: 120px;
+	height: 150px;
+	background: red;
+	left: 320px;
+	top: -1000px;
+	position: relative;
+	z-index: 10;
+	opacity: .9;
+}
+.box12 {
+	width: 120px;
+	height: 150px;
+	background: blue;
+	left: 280px;
+	top: -1080px;
+	position: relative;
+	z-index: 9;
+	opacity: .9;
+}
+.box13 {
+	width: 120px;
+	height: 150px;
+	background: green;
+	left: 240px;
+	top: -1160px;
+	position: relative;
+	z-index: 8;
+	opacity: .9;
+}
+.box14 {
+	width: 120px;
+	height: 150px;
+	background: yellow;
+	left: 200px;
+	top: -1240px;
+	position: relative;
+	z-index: 7;
+	opacity: .9;
+}
+.box15 {
+	width: 120px;
+	height: 150px;
+	background: black;
+	left: 160px;
+	top: -1320px;
+	position: relative;
+	z-index: 6;
+	opacity: .9;
+}
+.box16 {
+	width: 120px;
+	height: 150px;
+	background: red;
+	left: 120px;
+	top: -1400px;
+	position: relative;
+	z-index: 5;
+	opacity: .9;
+}
+.box17 {
+	width: 120px;
+	height: 150px;
+	background: blue;
+	left: 80px;
+	top: -1480px;
+	position: relative;
+	z-index: 4;
+	opacity: .9;
+}
+.box18 {
+	width: 120px;
+	height: 150px;
+	background: green;
+	left: 40px;
+	top: -1560px;
+	position: relative;
+	z-index: 3;
+	opacity: .9;
+}
+.box19 {
+	width: 120px;
+	height: 150px;
+	background: red;
+	left: 0;
+	top: -1640px;
+	position: relative;
+	z-index: 2;
+	opacity: .9;
+}
+.box20 {
+	width: 150px;
+	height: 150px;
+	background: black;
+	left: 0;
+	top: -1640px;
+	position: relative;
+	z-index: 11;
+	opacity: .9;
+}
+.box21 {
+	width: 150px;
+	height: 150px;
+	background: yellow;
+	left: 120px;
+	top: -1790px;
+	position: relative;
+	z-index: 12;
+	opacity: .9;
+}
+.box22 {
+	width: 150px;
+	height: 150px;
+	background: green;
+	left: 240px;
+	top: -1940px;
+	position: relative;
+	z-index: 13;
+	opacity: .9;
+}
+.box23{
+	width: 150px;
+	height: 150px;
+	background: blue;
+	left: 360px;
+	top: -2090px;
+	position: relative;
+	z-index: 14;
+	opacity: .9;
+}
+.box24 {
+	width: 150px;
+	height: 150px;
+	background: red;
+	left: 480px;
+	top: -2240px;
+	position: relative;
+	z-index: 15;
+	opacity: .9;
+}
